@@ -1,4 +1,5 @@
-const testBrand = () => {
-  console.log("testBrand", testBrand);
+const testBranch = () => {
+  console.log("testBranch", testBranch);
+  console.log("testBranch 2", testBranch);
 };
-export default testBrand;
+export default testBranch;
