@@ -1,1 +1,1 @@
-export default "feature-create-helloword-function-edited-by-Hoa";
+export default "feature-create-helloword-function-edited-by-Hoa-resolve";
